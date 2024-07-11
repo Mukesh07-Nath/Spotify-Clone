@@ -1,0 +1,43 @@
+/* utility class hum istmal karskte hai kisbhi elemnt mai jiase ki muhje display flex chaiye tho main woh flex class use kar skta hu ok */
+/* spotify */
+.border {
+    border: 2px solid red;
+    
+} 
+
+.flex{
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+.items-center {
+    align-items: center;
+}
+.bg-black{
+    background-color: #131212;;
+    color: white;
+}
+
+.invert {
+    filter: invert(1); 
+    /* ise kya hoga ki black wali svg white ho jayegai */
+}
+.bg-gray {
+    background-color: #1c1a1a;
+    color: white;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+
+.rounded {
+    border-radius: 10px;
+}
+
+.m-1{
+    margin: 5px;
+}
